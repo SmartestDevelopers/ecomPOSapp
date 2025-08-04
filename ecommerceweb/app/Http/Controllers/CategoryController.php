@@ -56,7 +56,7 @@ class CategoryController extends Controller
         $categories = DB::table('categories')
             ->select('categories.*', DB::raw('COUNT(products.id) as product_count'))
             ->leftJoin('products', 'categories.id', '=', 'products.category_id')
-            ->groupBy('categories.id', 'categories.name', 'categories.slug', 'categories.meta_title', 'categories.meta_description', 'categories.created_at', 'categories.updated_at')
+            ->groupBy('categories.id', 'categories.name', 'categories.slug', 'categories.meta_title', 'categories.meta_description','categories.description', 'categories.created_at', 'categories.updated_at')
             ->orderBy('categories.name')
             ->get();
 
