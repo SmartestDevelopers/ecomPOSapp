@@ -1,0 +1,11 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <path d="M150 60 L250 60 L270 90 L270 240 L130 240 L130 90 Z" fill="white" stroke="#ddd" stroke-width="2"/>
+  <path d="M140 60 L160 60 L160 80 L240 80 L240 60 L260 60 L260 100 L140 100 Z" fill="white" stroke="#ddd" stroke-width="2"/>
+  <text x="50%" y="85%" text-anchor="middle" dy=".1em" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Classic White T-Shirt
+  </text>
+  <text x="50%" y="92%" text-anchor="middle" dy=".1em" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    Cotton Clothing
+  </text>
+</svg>

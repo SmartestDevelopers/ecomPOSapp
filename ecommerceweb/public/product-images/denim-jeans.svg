@@ -1,0 +1,13 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f8f9fa"/>
+  <path d="M160 50 L240 50 L240 260 L220 260 L220 200 L180 200 L180 260 L160 260 Z" fill="#4682b4" stroke="#2e4a6b" stroke-width="2"/>
+  <line x1="170" y1="70" x2="230" y2="70" stroke="#2e4a6b" stroke-width="1"/>
+  <line x1="170" y1="100" x2="230" y2="100" stroke="#2e4a6b" stroke-width="1"/>
+  <circle cx="190" cy="85" r="3" fill="#c0c0c0"/>
+  <text x="50%" y="85%" text-anchor="middle" dy=".1em" fill="#333" font-family="Arial, sans-serif" font-size="16" font-weight="bold">
+    Denim Jeans
+  </text>
+  <text x="50%" y="92%" text-anchor="middle" dy=".1em" fill="#666" font-family="Arial, sans-serif" font-size="12">
+    Blue Denim
+  </text>
+</svg>
